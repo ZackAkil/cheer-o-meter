@@ -1,6 +1,8 @@
 # cheer-o-meter
 Built in Zurich
 
+the things you need to add to the Teachable machine template
+
 
 ```
 <button onclick="score = 50">reset</button>
